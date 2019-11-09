@@ -1,0 +1,126 @@
+D:\Tekla API\Коды\DSTVtoFolders\DSTVtoFolders\bin\Debug\DSTVtoFolders.exe.config
+D:\Tekla API\Коды\DSTVtoFolders\DSTVtoFolders\bin\Debug\DSTVtoFolders.exe
+D:\Tekla API\Коды\DSTVtoFolders\DSTVtoFolders\bin\Debug\DSTVtoFolders.pdb
+D:\Tekla API\Коды\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Structures.Dialog.dll
+D:\Tekla API\Коды\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Structures.dll
+D:\Tekla API\Коды\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Structures.Drawing.dll
+D:\Tekla API\Коды\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Structures.Geometry3d.Compatibility.dll
+D:\Tekla API\Коды\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Structures.Model.dll
+D:\Tekla API\Коды\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Common.Geometry.Primitives.dll
+D:\Tekla API\Коды\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Common.Geometry.dll
+D:\Tekla API\Коды\DSTVtoFolders\DSTVtoFolders\bin\Debug\Akit5.dll
+D:\Tekla API\Коды\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Technology.MsgLib.dll
+D:\Tekla API\Коды\DSTVtoFolders\DSTVtoFolders\bin\Debug\Mono.Cecil.dll
+D:\Tekla API\Коды\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Structures.Plugins.dll
+D:\Tekla API\Коды\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.BIM.Geometry.dll
+D:\Tekla API\Коды\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Technology.Scripting.dll
+D:\Tekla API\Коды\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Technology.Rkit.dll
+D:\Tekla API\Коды\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Technology.Scripting.Plugins.dll
+D:\Tekla API\Коды\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.BIM.Utilities.dll
+D:\Tekla API\Коды\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.BIM.Toolkit.dll
+D:\Tekla API\Коды\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Structures.xml
+D:\Tekla API\Коды\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Structures.Dialog.xml
+D:\Tekla API\Коды\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Structures.Drawing.xml
+D:\Tekla API\Коды\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Structures.Geometry3d.Compatibility.xml
+D:\Tekla API\Коды\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Structures.Model.xml
+D:\Tekla API\Коды\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Common.Geometry.Primitives.xml
+D:\Tekla API\Коды\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Common.Geometry.xml
+D:\Tekla API\Коды\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Structures.Plugins.xml
+D:\Tekla API\Коды\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.BIM.Geometry.xml
+D:\Tekla API\Коды\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.BIM.Utilities.xml
+D:\Tekla API\Коды\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.BIM.Toolkit.xml
+D:\Tekla API\Коды\DSTVtoFolders\DSTVtoFolders\obj\Debug\DSTVtoFolders.csprojAssemblyReference.cache
+D:\Tekla API\Коды\DSTVtoFolders\DSTVtoFolders\obj\Debug\DSTVtoFolders.Properties.Resources.resources
+D:\Tekla API\Коды\DSTVtoFolders\DSTVtoFolders\obj\Debug\DSTVtoFolders.csproj.GenerateResource.cache
+D:\Tekla API\Коды\DSTVtoFolders\DSTVtoFolders\obj\Debug\DSTVtoFolders.csproj.CoreCompileInputs.cache
+D:\Tekla API\Коды\DSTVtoFolders\DSTVtoFolders\obj\Debug\DSTVtoFolders.csproj.CopyComplete
+D:\Tekla API\Коды\DSTVtoFolders\DSTVtoFolders\obj\Debug\DSTVtoFolders.exe
+D:\Tekla API\Коды\DSTVtoFolders\DSTVtoFolders\obj\Debug\DSTVtoFolders.pdb
+D:\Tekla API\Коды\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Structures.Catalogs.dll
+D:\Tekla API\Коды\DSTVtoFolders\DSTVtoFolders\bin\Debug\Ionic.Zip.dll
+D:\Tekla API\Коды\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Structures.Catalogs.xml
+D:\Tekla API\Коды\DSTVtoFolders\DSTVtoFolders\obj\Debug\DSTVtoFolders.MyPlate.resources
+C:\Users\Wiz\Dropbox\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\DSTVtoFolders.exe.config
+C:\Users\Wiz\Dropbox\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\DSTVtoFolders.exe
+C:\Users\Wiz\Dropbox\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\DSTVtoFolders.pdb
+C:\Users\Wiz\Dropbox\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Structures.Catalogs.dll
+C:\Users\Wiz\Dropbox\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Structures.Dialog.dll
+C:\Users\Wiz\Dropbox\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Structures.dll
+C:\Users\Wiz\Dropbox\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Structures.Drawing.dll
+C:\Users\Wiz\Dropbox\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Structures.Geometry3d.Compatibility.dll
+C:\Users\Wiz\Dropbox\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Structures.Model.dll
+C:\Users\Wiz\Dropbox\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Common.Geometry.Primitives.dll
+C:\Users\Wiz\Dropbox\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Common.Geometry.dll
+C:\Users\Wiz\Dropbox\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Akit5.dll
+C:\Users\Wiz\Dropbox\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Ionic.Zip.dll
+C:\Users\Wiz\Dropbox\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Technology.MsgLib.dll
+C:\Users\Wiz\Dropbox\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Mono.Cecil.dll
+C:\Users\Wiz\Dropbox\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Structures.Plugins.dll
+C:\Users\Wiz\Dropbox\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.BIM.Geometry.dll
+C:\Users\Wiz\Dropbox\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Technology.Scripting.dll
+C:\Users\Wiz\Dropbox\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Technology.Rkit.dll
+C:\Users\Wiz\Dropbox\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Technology.Scripting.Plugins.dll
+C:\Users\Wiz\Dropbox\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.BIM.Utilities.dll
+C:\Users\Wiz\Dropbox\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.BIM.Toolkit.dll
+C:\Users\Wiz\Dropbox\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Structures.xml
+C:\Users\Wiz\Dropbox\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Structures.Catalogs.xml
+C:\Users\Wiz\Dropbox\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Structures.Dialog.xml
+C:\Users\Wiz\Dropbox\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Structures.Drawing.xml
+C:\Users\Wiz\Dropbox\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Structures.Geometry3d.Compatibility.xml
+C:\Users\Wiz\Dropbox\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Structures.Model.xml
+C:\Users\Wiz\Dropbox\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Common.Geometry.Primitives.xml
+C:\Users\Wiz\Dropbox\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Common.Geometry.xml
+C:\Users\Wiz\Dropbox\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Structures.Plugins.xml
+C:\Users\Wiz\Dropbox\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.BIM.Geometry.xml
+C:\Users\Wiz\Dropbox\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.BIM.Utilities.xml
+C:\Users\Wiz\Dropbox\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.BIM.Toolkit.xml
+C:\Users\Wiz\Dropbox\C#\DSTVtoFolders\DSTVtoFolders\obj\Debug\DSTVtoFolders.csprojAssemblyReference.cache
+C:\Users\Wiz\Dropbox\C#\DSTVtoFolders\DSTVtoFolders\obj\Debug\DSTVtoFolders.Properties.Resources.resources
+C:\Users\Wiz\Dropbox\C#\DSTVtoFolders\DSTVtoFolders\obj\Debug\DSTVtoFolders.csproj.GenerateResource.cache
+C:\Users\Wiz\Dropbox\C#\DSTVtoFolders\DSTVtoFolders\obj\Debug\DSTVtoFolders.csproj.CoreCompileInputs.cache
+C:\Users\Wiz\Dropbox\C#\DSTVtoFolders\DSTVtoFolders\obj\Debug\DSTVtoFolders.csproj.CopyComplete
+C:\Users\Wiz\Dropbox\C#\DSTVtoFolders\DSTVtoFolders\obj\Debug\DSTVtoFolders.exe
+C:\Users\Wiz\Dropbox\C#\DSTVtoFolders\DSTVtoFolders\obj\Debug\DSTVtoFolders.pdb
+C:\Users\Wiz\Dropbox\C#\DSTVtoFolders\DSTVtoFolders\obj\Debug\DSTVtoFolders.Form1.resources
+D:\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\DSTVtoFolders.exe.config
+D:\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\DSTVtoFolders.exe
+D:\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\DSTVtoFolders.pdb
+D:\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Structures.Catalogs.dll
+D:\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Structures.Dialog.dll
+D:\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Structures.dll
+D:\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Structures.Drawing.dll
+D:\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Structures.Geometry3d.Compatibility.dll
+D:\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Structures.Model.dll
+D:\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Common.Geometry.Primitives.dll
+D:\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Common.Geometry.dll
+D:\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Akit5.dll
+D:\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Ionic.Zip.dll
+D:\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Technology.MsgLib.dll
+D:\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Mono.Cecil.dll
+D:\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Structures.Plugins.dll
+D:\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.BIM.Geometry.dll
+D:\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Technology.Scripting.dll
+D:\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Technology.Rkit.dll
+D:\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Technology.Scripting.Plugins.dll
+D:\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.BIM.Utilities.dll
+D:\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.BIM.Toolkit.dll
+D:\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Structures.xml
+D:\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Structures.Catalogs.xml
+D:\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Structures.Dialog.xml
+D:\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Structures.Drawing.xml
+D:\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Structures.Geometry3d.Compatibility.xml
+D:\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Structures.Model.xml
+D:\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Common.Geometry.Primitives.xml
+D:\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Common.Geometry.xml
+D:\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.Structures.Plugins.xml
+D:\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.BIM.Geometry.xml
+D:\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.BIM.Utilities.xml
+D:\C#\DSTVtoFolders\DSTVtoFolders\bin\Debug\Tekla.BIM.Toolkit.xml
+D:\C#\DSTVtoFolders\DSTVtoFolders\obj\Debug\DSTVtoFolders.csprojAssemblyReference.cache
+D:\C#\DSTVtoFolders\DSTVtoFolders\obj\Debug\DSTVtoFolders.Form1.resources
+D:\C#\DSTVtoFolders\DSTVtoFolders\obj\Debug\DSTVtoFolders.Properties.Resources.resources
+D:\C#\DSTVtoFolders\DSTVtoFolders\obj\Debug\DSTVtoFolders.csproj.GenerateResource.cache
+D:\C#\DSTVtoFolders\DSTVtoFolders\obj\Debug\DSTVtoFolders.csproj.CoreCompileInputs.cache
+D:\C#\DSTVtoFolders\DSTVtoFolders\obj\Debug\DSTVtoFolders.csproj.CopyComplete
+D:\C#\DSTVtoFolders\DSTVtoFolders\obj\Debug\DSTVtoFolders.exe
+D:\C#\DSTVtoFolders\DSTVtoFolders\obj\Debug\DSTVtoFolders.pdb
